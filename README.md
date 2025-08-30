@@ -8,3 +8,4 @@ Learning data analytics.
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)  
 ![DAX](https://img.shields.io/badge/DAX-512BD4?logo=powerbi&logoColor=white)  
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)  
+![Stata](https://img.shields.io/badge/Stata-1E90FF?logo=stata&logoColor=white) 
